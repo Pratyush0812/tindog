@@ -1,0 +1,44 @@
+.main-head{
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: 1.5;
+  text-align: center;
+  font-size: 7rem;
+  color: #FCFDF2;
+}
+body{
+  background-color: #ef8172;
+  text-align: center;
+}
+.under{
+   color: #ff4c68;
+}
+.card{
+  display: inline-block;
+  background-color: #FCFDF2;
+}
+.pri-col{
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.butn-primary{
+  background-color:  #ef8172;
+  padding: 2% 6%;
+  border-color: #829460;
+  border-style: solid;
+  border-radius: 5px;
+  color: white;
+  transition: all 0.5s ease;
+}
+.butn-primary:hover{
+  box-shadow: 2px 2px 3px rgba(0,0,0,0.5);
+  transform: translateY(-5px);
+}
+
+.btn{
+  background-color:  #ef8172;
+}
+.btn-back{
+  background-color: #829460;
+}
